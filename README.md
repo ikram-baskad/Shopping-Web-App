@@ -10,9 +10,9 @@ A Java-based web application for browsing and managing a jewelry shopping experi
 
 \- Browse jewelry products
 
-\- Add to cart \& checkout
+\- Add to cart \and checkout
 
-\- User registration \& login
+\- User registration \and login
 
 \- Order tracking
 
